@@ -1,0 +1,36 @@
+EXECUTIVE SUMMARY
+RSVP Movies is an Indian film production company known for creating multiple blockbuster Indian
+films. They intend to become global by producing a film aimed at a worldwide audience by the year
+2022. RSVP has engaged SDT Analytics, a data analytics and SQL specialist, to analyse the previously
+accessible dataset and generate useful insights in order to take every possible step toward a successful
+strike.
+SDT Analytics has done an extensive study and the following observations were noted:
+1. The dataset included information of movies pertaining to previous three years. It was observed
+that the number of movies produced has decreased with each successive year. The number of
+movies released in the months of January, March and September are comparatively more than
+the rest of the months. March being the highest. The number of movies produced in December
+is the least.
+2. Thirteen categories of genres were identified and most of the movies belonged to Drama genre
+(4285) followed by Comedy and Thriller.
+3. Kirket and Love in Kilnery were revealed to be the top movies in terms of average rating.
+4. Dream Warrior Pictures and National Theatre Live were found to be the top production house
+based on the number of hit movies these production companies have produced.
+5. James Mangold, Anthony Russo and Soubin Shahir emerged as the top 3 directors among the top
+3 genres.
+6. Mammootty and Mohanlal were deemed to be the top actors when median ratings were
+examined, but Andrew Garfield and Vijay Raaz were found to be the top actors when average
+ratings were considered.
+7. Marvel Studios has received the highest number of votes making it the top production house
+among all.
+8. Based on average ratings, Vijay Sethupathy and Fahadh Faasil ranked as the top two actors in
+Indian films.
+9. Tappsee Pannu and Kirti Sanon emerged as the top two actresses in Indian films based on average
+ratings.
+Recommendations
+As an expert analyst, SDT Analytics advices RSVP Movies to produce a drama film. Dream Warrior
+Pictures or National Theatre Live can be chosen as the production house assuming for a success in the
+box office. The film may be directed by James Mangold. Since, RSVP wants to give a regional feel,
+Mammootty or Mohanlal may take the lead role of actor and Tapsee Pannu or Kirti Sanon as lead
+actress.
+
+
